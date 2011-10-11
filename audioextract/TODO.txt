@@ -1,6 +1,6 @@
 
 
 [10/11/2011] --- [Pending]
-我们选择的编译工具是MSBuild 4.0, 这是Visual Studio 2010中带有的编译引擎，需要一个人编一个sln工程文件，达到的效果是：
-msbuild audioextract.sln，自动产生ae.exe程序
+鎴戜滑閫夋嫨鐨勭紪璇戝伐鍏锋槸MSBuild 4.0, 杩欐槸Visual Studio 2010涓甫鏈夌殑缂栬瘧寮曟搸锛岄渶瑕佷竴涓汉缂栦竴涓猻ln宸ョ▼鏂囦欢锛岃揪鍒扮殑鏁堟灉鏄細
+msbuild audioextract.sln锛岃嚜鍔ㄤ骇鐢焌e.exe绋嬪簭
 
